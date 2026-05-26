@@ -1,6 +1,5 @@
 -- =============================================================
 -- CARBONTRACE - Sistema de Monitoramento de Desmatamento
--- DDL - Data Definition Language
 -- DROPS
 -- Banco de Dados: Oracle
 -- =============================================================
