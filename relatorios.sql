@@ -1,0 +1,21 @@
+-- =============================================================
+-- CARBONTRACE - Sistema de Monitoramento de Desmatamento
+-- DDL - Data Definition Language
+-- DROPS
+-- Banco de Dados: Oracle
+-- =============================================================
+
+-- =============================================================
+-- DROP DE TABELAS
+-- =============================================================
+DROP TABLE TB_ALERTA_ORGAO CASCADE CONSTRAINTS;
+DROP TABLE TB_ALERTA CASCADE CONSTRAINTS;
+DROP TABLE TB_ANALISE CASCADE CONSTRAINTS;
+DROP TABLE TB_IMAGEM_SATELITAL CASCADE CONSTRAINTS;
+DROP TABLE TB_OCORRENCIA CASCADE CONSTRAINTS;
+DROP TABLE TB_REGIAO CASCADE CONSTRAINTS;
+DROP TABLE TB_ORGAO_AMBIENTAL CASCADE CONSTRAINTS;
+DROP TABLE TB_RELATORIO CASCADE CONSTRAINTS;
+DROP TABLE TB_USUARIO CASCADE CONSTRAINTS;
+DROP TABLE TB_SATELITE CASCADE CONSTRAINTS;
+DROP TABLE TB_ESTADO CASCADE CONSTRAINTS;
